@@ -2,19 +2,18 @@
 
 ### Software Developer
 
-Hey there, I'm Antonio a 23 years old young man. Currently, I'm knee-deep in an apprenticeship journey, splitting my time—40% hitting the books at school and 60% diving into the bustling world of work. You'll find me tucked away in a manufacturer's domain, specializing in aerospace and energy components.
+Hey there, I'm Anto a 25 years old young man. Currently, I'm knee-deep in an apprenticeship journey, splitting my time—20% hitting the books at school and 80% diving into the bustling world of work. You'll find me tucked away in a manufacturer's domain, specializing in aerospace and energy components.
 
 My gig? Well, I'm the one behind the scenes, coding tools that lighten the load for my fellow factory folks. It's all about making their lives a bit easier, you know?
 
 Beyond just punching in and out, my mission is bigger. I'm all about ramping up the quality of our work environment. I want every person in that factory to feel valued and pumped about what they do. Simplifying things, making each day smoother—it's what gets me going.
 
-So yeah, that's me—Antonio, on a mission to sprinkle a little joy and efficiency into the daily grind for everyone around me.
+So yeah, that's me—Anto, on a mission to sprinkle a little joy and efficiency into the daily grind for everyone around me.
 
 ---
 ### About Me
 - 🌍 I'm chilling in Geneva, Switzerland 🇨🇭.
 - ✉️ Shoot me a message anytime on discord at [@tokyoboy](https://discord.com/users/tokyoboy). I'm always up for a chat!
-- 🧠 Currently delving into the fascinating realms of Machine Learning and AI. It's like unlocking the secrets of the universe, one algorithm at a time.
 - ⚡ When I'm not diving deep into tech, you'll catch me working on personal projects that keep my skills sharp and my creativity flowing. Random? Maybe. Exciting? Absolutely.
 
 So yeah, that's me—living life, learning, and always up for the next big adventure! 🚀
