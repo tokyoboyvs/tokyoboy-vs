@@ -37,10 +37,6 @@ So yeah, that's me—living life, learning, and always up for the next big adven
 ### Socials
 - <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="12" height="12" /> [TokyoBoy](https://github.com/tokyoboy-vs)
 - <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="12" height="12" /> [@tokyoboy](https://discord.com/users/tokyoboy)
-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="12" height="12" /> [@tokyoboy.vs](https://www.instagram.com/tokyoboy.vs)
-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" width="12" height="12" /> [@tokyoboy.vs](https://www.threads.net/@tokyoboy.vs)
-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/reddit.svg" width="12" height="12" /> [u/TokyoBoy-VS](https://www.reddit.com/user/TokyoBoy-VS/?rdt=62802)
-
 ---
 
 ### Badges
